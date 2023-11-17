@@ -1,0 +1,10 @@
+[
+  {
+    "version": "0.1",
+    "type": "link_rewrite",
+    "old_link": "http://www.vatican.va/various/basiliche/san_pietro/en/necropoli/tomba.htm",
+    "new_link": "https://www.basilicasanpietro.va/en/saint-peters/the-tomb-of-saint-peter.html",
+    "short_justification": "Original link sent to a missing page.",
+    "justification": "As of Nov 16th, 2023, the original link sent the reader to a missing page that 404'd. As far as I can tell by browsing previous version on the Internet Archive, (https://web.archive.org/web/20150201000000*/http://www.vatican.va/various/basiliche/san_pietro/en/necropoli/tomba.htm), the link never worked. If the link is given in Italian, i.e., http://www.vatican.va/various/basiliche/san_pietro/en/necropoli/tomba.htm, the link presently redirects to https://www.basilicasanpietro.va/it.html. However, this appears to be a redirect to a website, rather than to a specific page. By searching the content available on the Italian page at the time of this page's generation also through the Internet Archive, I was able to find the content that was originally linked to. It appears the content best matches the page https://www.basilicasanpietro.va/it/san-pietro/la-tomba-di-san-pietro.html. The English version of this link is present at https://www.basilicasanpietro.va/en/saint-peters/the-tomb-of-saint-peter.html"
+  }
+]
